@@ -19,17 +19,17 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Scripts
 
-| Command             | Purpose                         |
-| ------------------- | ------------------------------- |
-| `pnpm dev`          | Turbopack development server    |
-| `pnpm build`        | Production build (standalone)   |
-| `pnpm start`        | Start Next server               |
-| `pnpm lint`         | Oxlint                          |
-| `pnpm format:check` | Oxfmt check                     |
-| `pnpm typecheck`    | `tsc --noEmit`                  |
-| `pnpm test`         | Vitest unit/component tests     |
-| `pnpm test:e2e`     | Playwright e2e (mocked API)     |
-| `pnpm perf:check`   | Route bundle budgets            |
+| Command             | Purpose                       |
+| ------------------- | ----------------------------- |
+| `pnpm dev`          | Turbopack development server  |
+| `pnpm build`        | Production build (standalone) |
+| `pnpm start`        | Start Next server             |
+| `pnpm lint`         | Oxlint                        |
+| `pnpm format:check` | Oxfmt check                   |
+| `pnpm typecheck`    | `tsc --noEmit`                |
+| `pnpm test`         | Vitest unit/component tests   |
+| `pnpm test:e2e`     | Playwright e2e (mocked API)   |
+| `pnpm perf:check`   | Route bundle budgets          |
 
 ## Docs
 
